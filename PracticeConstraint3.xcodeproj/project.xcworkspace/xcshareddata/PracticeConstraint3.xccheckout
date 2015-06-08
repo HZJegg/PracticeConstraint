@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCC861A4-348E-40F5-90FA-D58EFB2A11CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PracticeConstraint3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E43AAE19FE206B21E49AEF8D8EBD2EEE648CB3A</key>
+		<string>github.com:HZJegg/PracticeConstraint.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PracticeConstraint3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E43AAE19FE206B21E49AEF8D8EBD2EEE648CB3A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:HZJegg/PracticeConstraint.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E43AAE19FE206B21E49AEF8D8EBD2EEE648CB3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E43AAE19FE206B21E49AEF8D8EBD2EEE648CB3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PracticeConstraint3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
